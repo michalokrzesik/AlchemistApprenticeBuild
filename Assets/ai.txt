@@ -1,0 +1,69 @@
+Zawód
+myśliwy
+kwiaciarka
+bibliotekarz
+burmistrz
+sklepikarka
+wróżbita
+nauczyciel
+kapłan
+karczmarz
+stróż
+medyk
+sportowiec
+ogrodnik
+mędrzec
+skrytobójca
+Cecha
+leniwy
+stary
+nieśmiały
+nadpobudliwy
+na skraju szaleństwa
+psychopata
+natarczywa
+uparty
+złośliwy
+nawiedzony
+kochliwy
+gardzi pracownikami
+głupi
+niecierpliwy
+Relacja
+mąż
+żona
+kocha bez wzajemności
+stalkeruje
+prześladuje
+prześladowany przez
+gardzi
+mści się
+kochanka
+klient
+Eventy w mieście
+Brak
+Bez znaczenia
+Festiwal z zabawami
+Obchody święta
+Dzień zakochanych
+Konkurs na największe warzywo
+Miasteczkowe dyktando
+Potencjalne sytuacje
+IF myśliwy & stary : jest już dosyć stary i nie jest tak sprawny jak kiedyś, więc potrzebuje boostu szybkości, żeby polować < Elixir > SPEED DELAY minimum
+IF myśliwy & stary : jest już dosyć stary i nie jest tak sprawny jak kiedyś, więc potrzebuje boostu koncentracji, żeby polować < Elixir > CONCENTRATION DELAY minimum
+IF na skraju szaleństwa & prześladowany przez : postanawia otruć prześladowcę < FragmentedBomb > POISON DELAY maximum
+IF nieśmiały & kocha bez wzajemności & #Festiwal z zabawami : chce zaimponować crushowi, w teście siły podczas festiwalu < Elixir > STRENGTH DELAY medium
+IF burmistrz & psychopata & gardzi pracownikami : postanawia polepszyć koncentrację pracowników < SmokeBomb > CONCENTRATION DELAY minimum
+IF sklepikarka & natarczywa : prześladuje klienta i wciska mu towar na siłę < Elixir > STUPIDITY DELAY minimum
+IF medyk & głupi : leczy pacjentów alchemią w gazie < SmokeBomb > CURE
+IF psychopata & mści się : chce spalić społeczność za doznane krzywdy < PetrolBomb
+IF uparty & sportowiec : chce wygrać bieg za wszelką cenę < Elixir > SPEED DELAY minimum
+IF kapłan & nawiedzony & #Obchody święta : składa ofiary swojemu bogu < FragmentedBomb > PAIN
+IF ogrodnik & niecierpliwy & #Konkurs na największe warzywo : chce wygrać największą marchewką < Elixir > SPEED DELAY minimum
+IF żona & złośliwa & kochanka : chce się zemścić na mężu za zdradę < Bomb > PAIN
+IF mędrzec & stary : pragnie pozbyć się bólu pleców < Elixir > RELIEF DELAY minimum
+IF złośliwy & kocha bez wzajemności & #Dzień zakochanych : pragnie pokazać tej osobie, że odrzucenie go, to był błąd < Elixir > CONCENTRATION
+IF nauczyciel & głupi & #Miasteczkowe dyktando : nie chce się zbłaźlić < Elixir > CONCENTRATION
+IF na skraju szaleństwa & prześladowany przez : postanawia potraktować prześladowcę kwasem < Acid
+IF skrytobójca : wyposaża się na misję < Flashbang
+IF skrytobójca : wyposaża się na misję < SmokeBomb

@@ -1,0 +1,41 @@
+Zawód
+skrytobójca
+detektyw
+Cecha
+leniwy
+stary
+nieśmiały
+nadpobudliwy
+na skraju szaleństwa
+psychopata
+natarczywa
+uparty
+złośliwy
+nawiedzony
+kochliwy
+gardzi pracownikami
+głupi
+niecierpliwy
+Relacja
+mąż
+żona
+kocha bez wzajemności
+stalkeruje
+prześladuje
+prześladowany przez
+gardzi
+mści się
+kochanka
+klient
+Eventy w mieście
+Brak
+Bez znaczenia
+Festiwal z zabawami
+Obchody święta
+Dzień zakochanych
+Konkurs na największe warzywo
+Miasteczkowe dyktando
+Potencjalne sytuacje
+IF skrytobójca : wyposaża się na misję < Flashbang
+IF skrytobójca : wyposaża się na misję < SmokeBomb
+IF detektyw : potrzebuje skupić się, by rozwiązać sprawę < Elixir > CONCENTRATION

@@ -1,0 +1,16 @@
+minimum	minimum	minimum
+minimum	medium	medium
+minimum	maximum	maximum
+minimum	none	minimum
+medium	minimum	medium
+medium	medium	medium
+medium	maximum	maximum
+medium	none	medium
+maximum	minimum	maximum
+maximum	medium	maximum
+maximum	maximum	maximum
+maximum	none	maximum
+none	minimum	minimum
+none	medium	medium
+none	maximum	maximum
+none	none	none
